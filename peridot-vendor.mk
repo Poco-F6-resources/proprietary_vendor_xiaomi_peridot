@@ -1427,8 +1427,6 @@ PRODUCT_PACKAGES += \
     libpdnotifier \
     libperipheral_client \
     libpolygon \
-    libprotobuf-cpp-full-21.7 \
-    libprotobuf-cpp-lite-21.7 \
     libqc2audio_base \
     libqc2audio_basecodec \
     libqc2audio_core \
